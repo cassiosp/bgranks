@@ -12,6 +12,7 @@
 #
 src_files:
   - assets/application.js
+  - ../vendor/assets/bower_components/angular-mocks/angular-mocks.js
 
 # stylesheets
 #
