@@ -1,0 +1,1 @@
+var bgRanks = angular.module('bgRanks', []);
